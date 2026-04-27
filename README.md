@@ -49,9 +49,6 @@ Hehe.
 | <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> | <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">Selenium</a> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-original.svg" alt="tmux" width="40" height="40"/> | <a href="https://github.com/tmux/tmux/wiki/" target="_blank" rel="noreferrer">Tmux</a> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> | <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">VSCode</a> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> | <a href="https://wordpress.com/" target="_blank" rel="noreferrer">WordPress</a> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/> | <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer">XML</a> |
 
-### My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendelinstar&layout=compact&theme=tokyonight)
-
 <!-- 
 USEFUL LINKS FOR ICONS E.G.:
 https://img.shields.io/badge/Archlinux-lightblue?logo=archlinux
